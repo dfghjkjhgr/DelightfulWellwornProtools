@@ -1,0 +1,32 @@
+.Topbar {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  text-decoration: none;
+  font-family: Karla, sans-serif;
+  top: 0;
+  
+}
+.NavbarColor {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  background-color: lightblue
+  
+  
+}
+
+#NavbarBorder {
+  border: 2px solid black;
+  position: relative;
+  top: -22px;
+  
+  
+}
+.NavbarLinks{
+  text-decoration: none;
+  font-family: Karla, sans-serif;
+  background-color: #f0e100;
+  color: 0000ff;
+  
+  
+}
+
